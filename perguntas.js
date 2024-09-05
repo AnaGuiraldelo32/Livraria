@@ -101,7 +101,7 @@
             {
                 texto: " Um romance envolvente que toca seu coração",
                 afirmacao: [
-                    "
+                    "Romance/Drama – Você se encanta com histórias emocionantes e complexas sobre amor e relacionamentos"
                 ],
             },
             {
